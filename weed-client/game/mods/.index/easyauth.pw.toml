@@ -1,0 +1,13 @@
+filename = 'easyauth-mc1.20-3.0.19.jar'
+name = 'EasyAuth'
+side = 'server'
+
+[download]
+hash = '428a95a4186e6c58fb70eab31c714057c02d7d65308fa8e3b198403959b607a826cadaba6c83d1415c4ce9e6e52fe7c5cfdab879bc2102b08754a3d08ea9f650'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aZj58GfX/versions/hKFWKzLt/easyauth-mc1.20-3.0.19.jar'
+
+[update.modrinth]
+mod-id = 'aZj58GfX'
+version = 'hKFWKzLt'

@@ -1,0 +1,13 @@
+filename = 'fabric_blank_discs_1.0.0.jar'
+name = 'Blank Discs'
+side = 'both'
+
+[download]
+hash = '62da37a9f6f7570d4c6681ccc8637183b65244aa88f08468e835b09ffd0aba3b8e22ed3d4df178d0561bcf0915ba0b61ef1dba20e101dd784f5d25eb8b902489'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LOAzExdy/versions/FsLFyTSY/fabric_blank_discs_1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'LOAzExdy'
+version = 'FsLFyTSY'

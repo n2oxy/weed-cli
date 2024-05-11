@@ -1,0 +1,11 @@
+{
+  "smallerSplash": false,
+  "changeCopyrightToC": true,
+  "includeYearInCopyright": true,
+  "modCount": true,
+  "disableRealmsButtonAndNotifs": true,
+  "disableSideButtons": true,
+  "mergeMultiAndSingle": false,
+  "versionTextEnum": "CUSTOM",
+  "customVersionString": "WEED CLIENT v1 - {loader}"
+}
